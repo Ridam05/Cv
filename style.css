@@ -1,0 +1,99 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.cont{
+  width:70%;
+  margin:auto;
+  display: flex;
+  margin-top: 2rem;
+  
+  border: 1px solid #444440;
+}
+.left{
+  width:35%;
+  margin:auto;
+  background: #f4f4f4;
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+}
+img{
+  width:90%;
+  border: 3px solid rgb(216, 208, 208);
+  border-radius: 30px;
+}
+.img{
+  margin-top: 2rem;
+}
+.left_cont{
+  width:80%;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+h1{
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto Serif', serif;
+  color: #444440;
+}
+h3{
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto Serif', serif;
+  color: #444440;
+}
+h2{
+  font-family: 'Poppins', sans-serif;
+  font-family: 'Roboto Serif', serif;
+  color: #444440;
+}
+.name{
+  font-size: 2rem;
+}
+.icon_div{
+  display: flex;
+  margin-top: 2rem;
+  gap:10px;
+  align-items: center;
+}
+.normal_text{
+  font-size: 50;
+  font-weight: 100;
+}
+.bio{
+  font-size: 1rem;
+  font-weight: 100;
+}
+hr{
+  color: #444440;
+}
+.title{
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-top: 2rem;
+}
+.normal_text2{
+  margin-top: 2rem;
+}
+.line{
+  margin-bottom: 2rem;
+}
+.normal_text3{
+  margin-bottom:.5rem;
+}
+.title2{
+  font-size: 1.4rem;
+  font-weight: 300;
+  margin-top: 2rem;
+}
+.Empty{
+  margin-bottom: 2rem;
+}
+.right{
+  width:50%;
+  margin-bottom: 3rem;
+}
+.right_cont{
+  width:80%;
+  margin: 0 auto;
+  margin-top: 5rem;
+}
